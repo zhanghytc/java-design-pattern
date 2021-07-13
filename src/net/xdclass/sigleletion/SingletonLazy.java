@@ -1,4 +1,4 @@
-package sigleletion;
+package net.xdclass.sigleletion;
 
 /**
  * 小滴课堂,愿景：让技术不再难学

@@ -1,4 +1,4 @@
-package sigleletion;
+package net.xdclass.sigleletion;
 
 public class SingletonHungry {
     private static SingletonHungry instance = new SingletonHungry();
